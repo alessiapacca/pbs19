@@ -1,4 +1,4 @@
-# Melting Fluid Simulation
+# Melting Fluid Simulation by Roger Barton, Alessia Paccagnella and Nik Houska
 
 ![melting-bunny](assets/README/melting-bunny.gif)
 

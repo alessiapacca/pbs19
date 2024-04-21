@@ -1,5 +1,7 @@
 # Melting Fluid Simulation by Roger Barton, Alessia Paccagnella and Niklaus Houska
 
+Hall of fame: https://cgl.ethz.ch/teaching/simulation19/fame.php
+
 ![melting-bunny](assets/README/melting-bunny.gif)
 
 ![melting-bunny-2](assets/README/melting-bunny-2.gif)
